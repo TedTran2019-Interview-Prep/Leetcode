@@ -6,7 +6,6 @@ def solution(sequence)
   until sequence.empty?
     prev_nbr = arr.last
     curr_nbr = sequence.shift
-    next_nbr = sequence.first
 
     if prev_nbr.nil? || curr_nbr > prev_nbr
       arr << curr_nbr
