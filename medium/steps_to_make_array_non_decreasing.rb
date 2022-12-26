@@ -41,3 +41,18 @@ def total_steps(nums)
   end
   steps
 end
+
+def total_steps(nums)
+  steps = Array.new(nums.length, 0)
+  stack = []
+  nums.reverse!
+  nums.each_with_index do |num, idx|
+    while (!stack.empty? && num > stack.last[0])
+      _n, i = stack.pop
+      steps[idx] += 1
+      steps[idx] = [steps[idx], steps[i]].max
+    end
+    stack << [num, idx]
+  end
+  steps.max
+end
