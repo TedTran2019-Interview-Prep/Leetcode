@@ -7,5 +7,7 @@ to classify problems and note how they were solved.
 ## 2023
 
 ### Hash Table
-- Two Sum
+- Two Sum: Check Hashmap for complement
 
+### Array
+- Remove Duplicates: Swap placeholder for greater value
