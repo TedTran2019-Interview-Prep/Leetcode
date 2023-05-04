@@ -14,3 +14,7 @@ to classify problems and note how they were solved.
   - Plan before execution
 - Remove Element: Swap placeholder for non-target
   - More or less, both remove problems just involve keeping track of two indices
+
+### Linked List
+- Add Two Numbers: Div, mod, and carries
+  - The cleanup for this one is really nice since no value can be changed to 0
