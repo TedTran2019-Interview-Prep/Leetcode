@@ -7,5 +7,5 @@ to classify problems and note how they were solved.
 ## 2023
 
 ### Hash Table
-Two Sum
+- Two Sum
 
