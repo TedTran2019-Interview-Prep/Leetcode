@@ -11,3 +11,4 @@ to classify problems and note how they were solved.
 
 ### Array
 - Remove Duplicates: Swap placeholder for greater value
+  - Plan before execution
