@@ -12,3 +12,5 @@ to classify problems and note how they were solved.
 ### Array
 - Remove Duplicates: Swap placeholder for greater value
   - Plan before execution
+- Remove Element: Swap placeholder for non-target
+  - More or less, both remove problems just involve keeping track of two indices
