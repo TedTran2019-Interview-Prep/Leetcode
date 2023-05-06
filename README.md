@@ -21,3 +21,6 @@ to classify problems and note how they were solved.
 
 ### Binary Search
 - Search Insert: Just binary search, but return low if not found
+
+### Array
+- Plus One: Iterate backwards, unshift, and either logic or mod/divide.
