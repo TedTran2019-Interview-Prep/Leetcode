@@ -16,6 +16,7 @@ to classify problems and note how they were solved.
   - More or less, both remove problems just involve keeping track of two indices
 - Plus One: Iterate backwards, unshift, and either logic or mod/divide.
 - Merge: Using an array to hold values in sorted order until they're ready to be inserted
+  - A better solution is to iterate backwards, placing the largest values in nums1.
 
 ### Linked List
 - Add Two Numbers: Div, mod, and carries

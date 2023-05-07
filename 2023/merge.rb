@@ -21,3 +21,27 @@ def merge(nums1, m, nums2, _n)
   end
   nums1
 end
+
+def merge(nums1, m, nums2, n)
+  return nums1 if n.zero?
+
+  k = (n + m) - 1
+  n -= 1
+  m -= 1
+  highest = nil
+
+  until n.negative?
+    if m.negative? || nums2[n] >= nums1[m]
+      highest = nums2[n]
+      n -= 1
+    else
+      highest = nums1[m]
+      m -= 1
+    end
+
+    nums1[k] = highest
+    k -= 1
+  end
+
+  nums1
+end
