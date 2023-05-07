@@ -37,3 +37,7 @@ to classify problems and note how they were solved.
 
 ### Bitwise Operations
 - Single Number: Xor
+
+### Dynamic Programming
+- Climbing Stairs: Think of a decision tree + cache or think about fibo (how the 
+previous two results create the next)
