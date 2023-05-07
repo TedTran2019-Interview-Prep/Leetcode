@@ -19,6 +19,8 @@ to classify problems and note how they were solved.
   - A better solution is to iterate backwards, placing the largest values in nums1.
 - Pascal's Triangle: Just code the generation logic.
 - Pascal's Triangle II: N/A
+- Best Time to Buy and Sell Stock: Compare current lowest price with future prices until new lowest price is found, keeping track of highest profit.
+
 ### Linked List
 - Add Two Numbers: Div, mod, and carries
   - The cleanup for this one is really nice since no value can be changed to 0
