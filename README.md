@@ -27,6 +27,7 @@ to classify problems and note how they were solved.
 ### Linked List
 - Add Two Numbers: Div, mod, and carries
   - The cleanup for this one is really nice since no value can be changed to 0
+- Merge Two Sorted Lists: Linked List understanding/knowledge.
 
 ### Binary Search
 - Search Insert: Just binary search, but return low if not found
