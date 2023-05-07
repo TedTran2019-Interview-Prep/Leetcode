@@ -30,3 +30,6 @@ to classify problems and note how they were solved.
 
 ### Binary Search Tree
 - Sorted Array to BST: Recursive solution that ensures every tree is a BST
+
+### Bitwise Operations
+- Single Number: Xor
