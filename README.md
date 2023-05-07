@@ -17,7 +17,8 @@ to classify problems and note how they were solved.
 - Plus One: Iterate backwards, unshift, and either logic or mod/divide.
 - Merge: Using an array to hold values in sorted order until they're ready to be inserted
   - A better solution is to iterate backwards, placing the largest values in nums1.
-
+- Pascal's Triangle: Just code the generation logic.
+- Pascal's Triangle II: N/A
 ### Linked List
 - Add Two Numbers: Div, mod, and carries
   - The cleanup for this one is really nice since no value can be changed to 0
