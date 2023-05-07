@@ -21,6 +21,9 @@ to classify problems and note how they were solved.
 - Pascal's Triangle II: N/A
 - Best Time to Buy and Sell Stock: Compare current lowest price with future prices until new lowest price is found, keeping track of highest profit.
 
+### String
+- Roman to Integer: Utilize a hashmap, and add or subtract value depending on next symbol
+
 ### Linked List
 - Add Two Numbers: Div, mod, and carries
   - The cleanup for this one is really nice since no value can be changed to 0
