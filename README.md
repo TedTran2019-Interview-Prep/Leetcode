@@ -14,6 +14,8 @@ to classify problems and note how they were solved.
   - Plan before execution
 - Remove Element: Swap placeholder for non-target
   - More or less, both remove problems just involve keeping track of two indices
+- Plus One: Iterate backwards, unshift, and either logic or mod/divide.
+- Merge: Using an array to hold values in sorted order until they're ready to be inserted
 
 ### Linked List
 - Add Two Numbers: Div, mod, and carries
@@ -21,6 +23,3 @@ to classify problems and note how they were solved.
 
 ### Binary Search
 - Search Insert: Just binary search, but return low if not found
-
-### Array
-- Plus One: Iterate backwards, unshift, and either logic or mod/divide.
